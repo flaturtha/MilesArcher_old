@@ -39,6 +39,8 @@ This site uses the following:
 - [CodeKit]() - compilation of SCSS, CoffeeScript, HAML, etc.
 - [Markdown]() - writing of posts, etc.
 - [Gridism](http://cobyism.com/gridism/) - grid and responsive system
+- [Anvil]() - local *.dev server
+- [Heroku](https://www.heroku.com/) - public server
 
 
 
