@@ -1,0 +1,1 @@
+Coffeescript in this folder compiles to the JS folder in the root directory.

@@ -1,0 +1,1 @@
+site images; may link from a (to be created if needed) folder in _assets (../_assets/img) that holds any preprocessed images

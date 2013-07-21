@@ -1,0 +1,1 @@
+create a styles.md page that will showcase every possible element (H1 ... <em>) as a demo styling page/post

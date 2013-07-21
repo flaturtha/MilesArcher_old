@@ -1,0 +1,1 @@
+as I understand it, this folder holds PAGE content to be inserted into the docs.html layout ... not for posts!

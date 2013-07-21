@@ -1,0 +1,1 @@
+SCSS created in this folder compiles to a single global.css file in the root directory CSS folder.

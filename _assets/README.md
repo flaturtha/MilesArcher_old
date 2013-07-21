@@ -1,0 +1,1 @@
+a non-compiled Jekyll folder holding SCSS, CoffeeScript and other back end systems that are compiled prior to site generation
