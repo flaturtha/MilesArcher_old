@@ -1,3 +1,535 @@
+/* normalize.css v2.1.2 | MIT License | git.io/normalize */
+/* ==========================================================================
+   HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined in IE 8/9.
+ */
+/* line 22, ../_assets/scss/_normalize.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+/**
+ * Correct `inline-block` display not defined in IE 8/9.
+ */
+/* line 32, ../_assets/scss/_normalize.scss */
+audio,
+canvas,
+video {
+  display: inline-block; }
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+/* line 41, ../_assets/scss/_normalize.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+/* line 50, ../_assets/scss/_normalize.scss */
+[hidden] {
+  display: none; }
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+/* line 64, ../_assets/scss/_normalize.scss */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+/**
+ * Remove default margin.
+ */
+/* line 74, ../_assets/scss/_normalize.scss */
+body {
+  margin: 0; }
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+/**
+ * Address `outline` inconsistency between Chrome and other browsers.
+ */
+/* line 86, ../_assets/scss/_normalize.scss */
+a:focus {
+  outline: thin dotted; }
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+/* line 95, ../_assets/scss/_normalize.scss */
+a:active,
+a:hover {
+  outline: 0; }
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari 5, and Chrome.
+ */
+/* line 108, ../_assets/scss/_normalize.scss */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/**
+ * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+/* line 117, ../_assets/scss/_normalize.scss */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+/* line 126, ../_assets/scss/_normalize.scss */
+b,
+strong {
+  font-weight: bold; }
+
+/**
+ * Address styling not present in Safari 5 and Chrome.
+ */
+/* line 134, ../_assets/scss/_normalize.scss */
+dfn {
+  font-style: italic; }
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+/* line 142, ../_assets/scss/_normalize.scss */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+/* line 152, ../_assets/scss/_normalize.scss */
+mark {
+  background: #ff0;
+  color: #000; }
+
+/**
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+/* line 164, ../_assets/scss/_normalize.scss */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em; }
+
+/**
+ * Improve readability of pre-formatted text in all browsers.
+ */
+/* line 173, ../_assets/scss/_normalize.scss */
+pre {
+  white-space: pre-wrap; }
+
+/**
+ * Set consistent quote types.
+ */
+/* line 181, ../_assets/scss/_normalize.scss */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019"; }
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+/* line 189, ../_assets/scss/_normalize.scss */
+small {
+  font-size: 80%; }
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+/* line 198, ../_assets/scss/_normalize.scss */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+/* line 205, ../_assets/scss/_normalize.scss */
+sup {
+  top: -0.5em; }
+
+/* line 209, ../_assets/scss/_normalize.scss */
+sub {
+  bottom: -0.25em; }
+
+/* ==========================================================================
+   Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9.
+ */
+/* line 221, ../_assets/scss/_normalize.scss */
+img {
+  border: 0; }
+
+/**
+ * Correct overflow displayed oddly in IE 9.
+ */
+/* line 229, ../_assets/scss/_normalize.scss */
+svg:not(:root) {
+  overflow: hidden; }
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari 5.
+ */
+/* line 241, ../_assets/scss/_normalize.scss */
+figure {
+  margin: 0; }
+
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+/**
+ * Define consistent border, margin, and padding.
+ */
+/* line 253, ../_assets/scss/_normalize.scss */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+/* line 264, ../_assets/scss/_normalize.scss */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/**
+ * 1. Correct font family not being inherited in all browsers.
+ * 2. Correct font size not being inherited in all browsers.
+ * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+ */
+/* line 278, ../_assets/scss/_normalize.scss */
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 2 */
+  margin: 0;
+  /* 3 */ }
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+/* line 290, ../_assets/scss/_normalize.scss */
+button,
+input {
+  line-height: normal; }
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
+ * Correct `select` style inheritance in Firefox 4+ and Opera.
+ */
+/* line 302, ../_assets/scss/_normalize.scss */
+button,
+select {
+  text-transform: none; }
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+/* line 317, ../_assets/scss/_normalize.scss */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */ }
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+/* line 327, ../_assets/scss/_normalize.scss */
+button[disabled],
+html input[disabled] {
+  cursor: default; }
+
+/**
+ * 1. Address box sizing set to `content-box` in IE 8/9.
+ * 2. Remove excess padding in IE 8/9.
+ */
+/* line 337, ../_assets/scss/_normalize.scss */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+/* line 348, ../_assets/scss/_normalize.scss */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
+
+/**
+ * Remove inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+/* line 361, ../_assets/scss/_normalize.scss */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+/* line 370, ../_assets/scss/_normalize.scss */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/**
+ * 1. Remove default vertical scrollbar in IE 8/9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+/* line 380, ../_assets/scss/_normalize.scss */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */ }
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+/* line 393, ../_assets/scss/_normalize.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/*
+ * Gridism
+ * A simple, responsive, and handy CSS grid by @cobyism
+ * https://github.com/cobyism/gridism
+ */
+/* Preserve some sanity */
+/* line 9, ../_assets/scss/_gridism.scss */
+.grid, .unit {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* Set up some rules to govern the grid */
+/* line 17, ../_assets/scss/_gridism.scss */
+.grid {
+  display: block;
+  clear: both; }
+  /* line 20, ../_assets/scss/_gridism.scss */
+  .grid .unit {
+    float: left;
+    width: 100%;
+    padding: 10px; }
+    /* line 24, ../_assets/scss/_gridism.scss */
+    .grid .unit:first-child {
+      padding-left: 20px; }
+    /* line 27, ../_assets/scss/_gridism.scss */
+    .grid .unit:last-child {
+      padding-right: 20px; }
+
+/* This ensures the outer gutters are equal to the (doubled) inner gutters. */
+/* Nested grids already have padding though, so let’s nuke it */
+/* line 39, ../_assets/scss/_gridism.scss */
+.unit .unit:first-child {
+  padding-left: 0; }
+/* line 42, ../_assets/scss/_gridism.scss */
+.unit .unit:last-child {
+  padding-right: 0; }
+/* line 47, ../_assets/scss/_gridism.scss */
+.unit .grid:first-child > .unit {
+  padding-top: 0; }
+/* line 50, ../_assets/scss/_gridism.scss */
+.unit .grid:last-child > .unit {
+  padding-bottom: 0; }
+
+/* Let people nuke the gutters/padding completely in a couple of ways */
+/* line 58, ../_assets/scss/_gridism.scss */
+.no-gutters .unit, .unit.no-gutters {
+  padding: 0 !important; }
+
+/* Wrapping at a maximum width is optional */
+/* line 64, ../_assets/scss/_gridism.scss */
+.wrap .grid {
+  max-width: 978px;
+  margin: 0 auto; }
+
+/* line 70, ../_assets/scss/_gridism.scss */
+.grid.wrap {
+  max-width: 978px;
+  margin: 0 auto; }
+/* line 74, ../_assets/scss/_gridism.scss */
+.grid .whole, .grid .w-1-1 {
+  width: 100%; }
+/* line 77, ../_assets/scss/_gridism.scss */
+.grid .half, .grid .w-1-2 {
+  width: 50%; }
+/* line 80, ../_assets/scss/_gridism.scss */
+.grid .one-third, .grid .w-1-3 {
+  width: 33.3332%; }
+/* line 83, ../_assets/scss/_gridism.scss */
+.grid .two-thirds, .grid .w-2-3 {
+  width: 66.6665%; }
+/* line 86, ../_assets/scss/_gridism.scss */
+.grid .one-quarter, .grid .w-1-4 {
+  width: 25%; }
+/* line 89, ../_assets/scss/_gridism.scss */
+.grid .three-quarters, .grid .w-3-4 {
+  width: 75%; }
+/* line 92, ../_assets/scss/_gridism.scss */
+.grid .one-fifth, .grid .w-1-5 {
+  width: 20%; }
+/* line 95, ../_assets/scss/_gridism.scss */
+.grid .two-fifths, .grid .w-2-5 {
+  width: 40%; }
+/* line 98, ../_assets/scss/_gridism.scss */
+.grid .three-fifths, .grid .w-3-5 {
+  width: 60%; }
+/* line 101, ../_assets/scss/_gridism.scss */
+.grid .four-fifths, .grid .w-4-5 {
+  width: 80%; }
+/* line 104, ../_assets/scss/_gridism.scss */
+.grid .golden-small, .grid .w-g-s {
+  width: 38.2716%; }
+/* line 107, ../_assets/scss/_gridism.scss */
+.grid .golden-large, .grid .w-g-l {
+  width: 61.7283%; }
+
+/* Width classes also have shorthand versions numbered as fractions
+ * For example: for a grid unit 1/3 (one third) of the parent width,
+ * simply apply class="w-1-3" to the element. */
+/* Golden section: smaller piece */
+/* Golden section: larger piece */
+/* Utility classes */
+/* line 121, ../_assets/scss/_gridism.scss */
+.align-center {
+  text-align: center; }
+
+/* line 125, ../_assets/scss/_gridism.scss */
+.align-left {
+  text-align: left; }
+
+/* line 129, ../_assets/scss/_gridism.scss */
+.align-right {
+  text-align: right; }
+
+/* line 133, ../_assets/scss/_gridism.scss */
+.pull-left {
+  float: left; }
+
+/* line 137, ../_assets/scss/_gridism.scss */
+.pull-right {
+  float: right; }
+
+/* line 141, ../_assets/scss/_gridism.scss */
+.show-on-mobiles {
+  display: none; }
+
+/* Responsive Stuff */
+@media screen and (max-width: 568px) {
+  /* Stack anything that isn’t full-width on smaller screens */
+  /* line 148, ../_assets/scss/_gridism.scss */
+  .grid .unit {
+    width: 100% !important;
+    padding-left: 20px;
+    padding-right: 20px; }
+
+  /* line 153, ../_assets/scss/_gridism.scss */
+  .unit .grid .unit {
+    padding-left: 0px;
+    padding-right: 0px; }
+
+  /* Sometimes, you just want to be different on small screens */
+  /* line 158, ../_assets/scss/_gridism.scss */
+  .center-on-mobiles {
+    text-align: center !important; }
+
+  /* line 161, ../_assets/scss/_gridism.scss */
+  .hide-on-mobiles {
+    display: none !important; }
+
+  /* line 164, ../_assets/scss/_gridism.scss */
+  .show-on-mobiles {
+    display: block !important; }
+
+  /* line 167, ../_assets/scss/_gridism.scss */
+  a .show-on-mobiles {
+    display: inline !important; } }
+/* Expand the wrap a bit further on larger screens */
+/*@media screen and (min-width: 1180px) {
+  .wrap .grid {
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+}*/
 /**
  * Copied from jekylrb.com styles.css
  */
