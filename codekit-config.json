@@ -55,17 +55,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/multiple-devices.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
-      "initialSize" : 32011,
-      "fileType" : 4096
-    },
     "\/_site\/img\/header_simp.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -88,6 +77,17 @@
       "outputAbbreviatedPath" : "\/css\/_bits.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/img\/multiple-devices.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
+      "initialSize" : 32011,
+      "fileType" : 4096
     },
     "\/_includes\/head.html" : {
       "ignoreWasSetByUser" : 0,
@@ -201,17 +201,6 @@
       "initialSize" : 3948,
       "fileType" : 8192
     },
-    "\/_site\/img\/brickwall.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/brickwall.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/brickwall.png",
-      "initialSize" : 3213,
-      "fileType" : 8192
-    },
     "\/img\/header_smob.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -221,6 +210,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/header_smob.png",
       "initialSize" : 18878,
+      "fileType" : 8192
+    },
+    "\/_site\/img\/brickwall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/brickwall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/brickwall.png",
+      "initialSize" : 3213,
       "fileType" : 8192
     },
     "\/img\/bg_noir.jpg" : {
