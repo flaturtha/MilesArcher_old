@@ -1,6 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'RedCloth'
-gem 'rack-jekyll'
-gem 'thin'
