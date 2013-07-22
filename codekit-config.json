@@ -2,6 +2,15 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8317",
   "files" : {
+    "\/_includes\/masthead.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/masthead.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/img\/dark_wall.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -11,6 +20,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/dark_wall.png",
       "initialSize" : 32733,
+      "fileType" : 8192
+    },
+    "\/_site\/img\/header_smob.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/header_smob.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/header_smob.png",
+      "initialSize" : 18878,
       "fileType" : 8192
     },
     "\/css\/global.css" : {
@@ -49,6 +69,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/img\/header_simp.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
+      "initialSize" : 54189,
+      "fileType" : 8192
+    },
     "\/_assets\/scss\/_normalize.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -61,32 +92,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/img\/header_simp.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
-      "initialSize" : 54189,
-      "fileType" : 8192
-    },
     "\/_layouts\/default.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_includes\/header.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/header.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -114,15 +125,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_includes\/top.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/top.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_includes\/footer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -132,14 +134,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/config.rb" : {
+    "\/img\/header_smob.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
+      "inputAbbreviatedPath" : "\/img\/header_smob.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header_smob.png",
+      "initialSize" : 18878,
+      "fileType" : 8192
     },
     "\/_site\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -158,6 +162,15 @@
       "inputAbbreviatedPath" : "\/_site\/2013\/07\/21\/landing-page\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/config.rb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -190,6 +203,15 @@
       "outputAbbreviatedPath" : "\/_site\/img\/dark_wall.png",
       "initialSize" : 32733,
       "fileType" : 8192
+    },
+    "\/_includes\/head.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/head.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/header_simp.png" : {
       "ignoreWasSetByUser" : 0,
