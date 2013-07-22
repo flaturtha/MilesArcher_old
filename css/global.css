@@ -1472,7 +1472,7 @@ code.option, code.flag, code.filter, code.output {
   margin-bottom: 1rem; }
 /* line 990, ../_assets/scss/global.scss */
 .copyHead h1, .copyHead h2, .copyHead h3, .copyHead h4, .copyHead h5, .copyHead h6 {
-  color: red; }
+  color: white; }
 
 /* line 995, ../_assets/scss/global.scss */
 .lpCopy {
