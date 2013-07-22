@@ -2,14 +2,123 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8317",
   "files" : {
-    "\/_includes\/masthead.html" : {
+    "\/img\/article-footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/masthead.html",
+      "inputAbbreviatedPath" : "\/img\/article-footer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/article-footer.png",
+      "initialSize" : 1898,
+      "fileType" : 8192
+    },
+    "\/_site\/img\/multiple-devices.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/multiple-devices.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/multiple-devices.jpg",
+      "initialSize" : 32011,
+      "fileType" : 4096
+    },
+    "\/img\/header_simp.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/header_simp.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header_simp.png",
+      "initialSize" : 54189,
+      "fileType" : 8192
+    },
+    "\/img\/brickwall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/brickwall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/brickwall.png",
+      "initialSize" : 3213,
+      "fileType" : 8192
+    },
+    "\/_site\/2013\/07\/21\/landing-page\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/2013\/07\/21\/landing-page\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/img\/multiple-devices.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
+      "initialSize" : 32011,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/header_simp.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
+      "initialSize" : 54189,
+      "fileType" : 8192
+    },
+    "\/_assets\/scss\/_bits.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_assets\/scss\/_bits.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_bits.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_includes\/head.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/head.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/img\/brickwall_@2Xa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/brickwall_@2Xa.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/brickwall_@2Xa.png",
+      "initialSize" : 7708,
+      "fileType" : 8192
+    },
+    "\/_site\/img\/dark_wall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/dark_wall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/dark_wall.png",
+      "initialSize" : 32733,
+      "fileType" : 8192
     },
     "\/img\/dark_wall.png" : {
       "ignoreWasSetByUser" : 0,
@@ -22,16 +131,108 @@
       "initialSize" : 32733,
       "fileType" : 8192
     },
-    "\/_site\/img\/header_smob.png" : {
+    "\/_site\/img\/bg_noir.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/header_smob.png",
+      "inputAbbreviatedPath" : "\/_site\/img\/bg_noir.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/header_smob.png",
+      "outputAbbreviatedPath" : "\/_site\/img\/bg_noir.jpg",
+      "initialSize" : 193754,
+      "fileType" : 4096
+    },
+    "\/_includes\/analytics.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/analytics.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_includes\/masthead.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/masthead.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/config.rb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
+    },
+    "\/_site\/css\/global.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/css\/global.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_assets\/scss\/global.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_assets\/scss\/global.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/global.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_site\/img\/gh-icons.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/gh-icons.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/gh-icons.png",
+      "initialSize" : 3948,
+      "fileType" : 8192
+    },
+    "\/_site\/img\/brickwall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/brickwall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/brickwall.png",
+      "initialSize" : 3213,
+      "fileType" : 8192
+    },
+    "\/img\/header_smob.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/header_smob.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header_smob.png",
       "initialSize" : 18878,
       "fileType" : 8192
+    },
+    "\/img\/bg_noir.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/bg_noir.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/bg_noir.jpg",
+      "initialSize" : 193754,
+      "fileType" : 4096
     },
     "\/img\/gh-icons.png" : {
       "ignoreWasSetByUser" : 0,
@@ -53,14 +254,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_site\/css\/global.css" : {
+    "\/_site\/img\/article-footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/global.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/_site\/img\/article-footer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/article-footer.png",
+      "initialSize" : 1898,
+      "fileType" : 8192
     },
     "\/_layouts\/docs.html" : {
       "ignoreWasSetByUser" : 0,
@@ -71,121 +274,23 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_includes\/analytics.html" : {
+    "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/analytics.html",
+      "inputAbbreviatedPath" : "\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/header_simp.png" : {
+    "\/_site\/img\/header_smob.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
+      "inputAbbreviatedPath" : "\/_site\/img\/header_smob.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
-      "initialSize" : 54189,
-      "fileType" : 8192
-    },
-    "\/_assets\/scss\/_normalize.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_assets\/scss\/_normalize.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_normalize.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_layouts\/default.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_assets\/scss\/global.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_assets\/scss\/global.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/global.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/img\/bg_noir.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/bg_noir.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/bg_noir.jpg",
-      "initialSize" : 193754,
-      "fileType" : 4096
-    },
-    "\/img\/article-footer.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/article-footer.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/article-footer.png",
-      "initialSize" : 1898,
-      "fileType" : 8192
-    },
-    "\/_site\/img\/gh-icons.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/gh-icons.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/gh-icons.png",
-      "initialSize" : 3948,
-      "fileType" : 8192
-    },
-    "\/_assets\/scss\/_gridism.scss" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_assets\/scss\/_gridism.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_gridism.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_includes\/footer.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/footer.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/header_smob.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/header_smob.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/header_smob.png",
+      "outputAbbreviatedPath" : "\/_site\/img\/header_smob.png",
       "initialSize" : 18878,
       "fileType" : 8192
     },
@@ -201,6 +306,52 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/img\/brickwall_@2X.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/brickwall_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/brickwall_@2X.png",
+      "initialSize" : 3302,
+      "fileType" : 8192
+    },
+    "\/_assets\/scss\/_gridism.scss" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_assets\/scss\/_gridism.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_gridism.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/img\/brickwall_@2Xa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/brickwall_@2Xa.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/brickwall_@2Xa.png",
+      "initialSize" : 7708,
+      "fileType" : 8192
+    },
+    "\/_assets\/scss\/_normalize.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_assets\/scss\/_normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/_site\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -210,119 +361,34 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/article-footer.png" : {
+    "\/_site\/img\/brickwall_@2X.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/article-footer.png",
+      "inputAbbreviatedPath" : "\/_site\/img\/brickwall_@2X.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/article-footer.png",
-      "initialSize" : 1898,
+      "outputAbbreviatedPath" : "\/_site\/img\/brickwall_@2X.png",
+      "initialSize" : 3302,
       "fileType" : 8192
     },
-    "\/_site\/2013\/07\/21\/landing-page\/index.html" : {
+    "\/_layouts\/default.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/2013\/07\/21\/landing-page\/index.html",
+      "inputAbbreviatedPath" : "\/_layouts\/default.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/config.rb" : {
+    "\/_includes\/footer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
-    },
-    "\/_site\/img\/bg_noir.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/bg_noir.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/bg_noir.jpg",
-      "initialSize" : 193754,
-      "fileType" : 4096
-    },
-    "\/_site\/img\/multiple-devices.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/multiple-devices.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/multiple-devices.jpg",
-      "initialSize" : 32011,
-      "fileType" : 4096
-    },
-    "\/_includes\/head.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/head.html",
+      "inputAbbreviatedPath" : "\/_includes\/footer.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/_assets\/scss\/_bits.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_assets\/scss\/_bits.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_bits.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/img\/dark_wall.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/dark_wall.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/dark_wall.png",
-      "initialSize" : 32733,
-      "fileType" : 8192
-    },
-    "\/img\/multiple-devices.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/multiple-devices.jpg",
-      "initialSize" : 32011,
-      "fileType" : 4096
-    },
-    "\/img\/header_simp.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/header_simp.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/header_simp.png",
-      "initialSize" : 54189,
-      "fileType" : 8192
     }
   },
   "manualImportLinks" : [
