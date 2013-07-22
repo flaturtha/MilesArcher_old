@@ -145,14 +145,14 @@
       "initialSize" : 18878,
       "fileType" : 8192
     },
-    "\/_site\/index.html" : {
+    "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "fileType" : 32768
     },
     "\/_site\/2013\/07\/21\/landing-page\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -163,14 +163,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/config.rb" : {
+    "\/_site\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
+      "inputAbbreviatedPath" : "\/_site\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
+      "fileType" : 2048
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,

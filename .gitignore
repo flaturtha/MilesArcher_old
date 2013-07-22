@@ -1,4 +1,4 @@
 .DS_Store
 .sass-cache
 _site
-codekit_config.json
+*.json
