@@ -1512,3 +1512,12 @@ code.option, code.flag, code.filter, code.output {
     .offerLink a {
       font-size: 2rem;
       padding: 10px; } }
+
+/* line 1037, ../_assets/scss/global.scss */
+.devices {
+  width: 200px; }
+  @media (min-width: 768px) {
+    /* line 1037, ../_assets/scss/global.scss */
+    .devices {
+      width: 300px;
+      margin-left: 20%; } }

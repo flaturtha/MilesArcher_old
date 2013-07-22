@@ -1034,6 +1034,15 @@ code.option, code.flag, code.filter, code.output {
   }
 }
 
+.devices {
+  width: 200px;
+  // margin-left: 10%;
+  @media (min-width: 768px) {
+    width: 300px; 
+    margin-left: 20%;
+  }
+}
+
 // @import "_buttons/gh-buttons";
 
 
