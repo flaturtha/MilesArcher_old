@@ -676,11 +676,11 @@ nav li {
 /* Footer */
 /* line 164, ../_assets/scss/global.scss */
 body > footer {
-  background: #222;
-  font-size: 16px;
-  padding-bottom: 5px;
+  background: #111;
+  font-size: 0.75rem;
+  padding: 5px;
   color: #888;
-  margin-top: 40px; }
+  margin-top: 2rem; }
 
 /* line 172, ../_assets/scss/global.scss */
 body > footer a {
@@ -1462,15 +1462,42 @@ code.option, code.flag, code.filter, code.output {
     overflow-x: scroll;
     margin: 0 -40px;
     padding: 0 10px; } }
-/* line 981, ../_assets/scss/global.scss */
+/* my code */
+/* line 982, ../_assets/scss/global.scss */
 .mastheadIMG {
   margin: 1rem 0 0; }
 
-/* line 985, ../_assets/scss/global.scss */
+/* line 987, ../_assets/scss/global.scss */
+.copyHead ul li {
+  margin-bottom: 1rem; }
+/* line 990, ../_assets/scss/global.scss */
+.copyHead h1, .copyHead h2, .copyHead h3, .copyHead h4, .copyHead h5, .copyHead h6 {
+  color: red; }
+
+/* line 995, ../_assets/scss/global.scss */
 .lpCopy {
   text-align: left; }
+  /* line 997, ../_assets/scss/global.scss */
+  .lpCopy p:last-child {
+    margin-top: 3rem;
+    margin-bottom: 0.25rem; }
+  /* line 1001, ../_assets/scss/global.scss */
+  .lpCopy h1, .lpCopy h2, .lpCopy h3, .lpCopy h4, .lpCopy h5, .lpCopy h6 {
+    color: red; }
   @media (min-width: 568px) {
-    /* line 985, ../_assets/scss/global.scss */
+    /* line 995, ../_assets/scss/global.scss */
     .lpCopy {
       max-width: 80%;
       margin-left: 5rem; } }
+
+/* line 1011, ../_assets/scss/global.scss */
+.offerLink a {
+  font-size: 1.5rem;
+  padding: 3px;
+  background: #444;
+  border-radius: 5px; }
+  @media (min-width: 768px) {
+    /* line 1011, ../_assets/scss/global.scss */
+    .offerLink a {
+      font-size: 2rem;
+      padding: 10px; } }

@@ -162,11 +162,11 @@ nav li {
 /* Footer */
 
 body > footer {
-  background: #222;
-  font-size: 16px;
-  padding-bottom: 5px;
+  background: #111;
+  font-size: 0.75rem;
+  padding: 5px;
   color: #888;
-  margin-top: 40px;
+  margin-top: 2rem;
 }
 
 body > footer a {
@@ -977,16 +977,49 @@ code.option, code.flag, code.filter, code.output {
   }
 }
 
+/* my code */
 
 .mastheadIMG {
   margin: 1rem 0 0;
 }
 
+.copyHead {
+  ul li {
+    margin-bottom: 1rem;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: $action;
+  }
+}
+
 .lpCopy {
   text-align: left;
+  p:last-child {
+    margin-top: 3rem;
+    margin-bottom: 0.25rem;
+   }
+  h1, h2, h3, h4, h5, h6 {
+    color: $action;
+  }
   @media (min-width: 568px){
     max-width: 80%;
     margin-left: 5rem;
-  // background-color: green;
+    // border: 1px solid $action;        
   }
 }
+
+.offerLink a {
+  font-size: 1.5rem;
+  padding: 3px;
+  background: #444;
+  border-radius: 5px;
+  @media (min-width: 768px) {
+    font-size: 2rem;
+    padding: 10px;
+  }
+}
+
+
+
+
+
