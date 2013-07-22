@@ -1477,27 +1477,23 @@ code.option, code.flag, code.filter, code.output {
 .copyHead h1, .copyHead h2, .copyHead h3, .copyHead h4, .copyHead h5, .copyHead h6 {
   color: white; }
 
-/* line 998, ../_assets/scss/global.scss */
-.free-hosting .pane {
-  background: url(../img/bg_noir.jpg) no-repeat; }
-
-/* line 1001, ../_assets/scss/global.scss */
+/* line 1003, ../_assets/scss/global.scss */
 .lpCopy {
   text-align: left; }
-  /* line 1003, ../_assets/scss/global.scss */
+  /* line 1005, ../_assets/scss/global.scss */
   .lpCopy p:last-child {
     margin-top: 3rem;
     margin-bottom: 0.25rem; }
-  /* line 1007, ../_assets/scss/global.scss */
+  /* line 1009, ../_assets/scss/global.scss */
   .lpCopy h1, .lpCopy h2, .lpCopy h3, .lpCopy h4, .lpCopy h5, .lpCopy h6 {
     color: white; }
   @media (min-width: 568px) {
-    /* line 1001, ../_assets/scss/global.scss */
+    /* line 1003, ../_assets/scss/global.scss */
     .lpCopy {
       max-width: 80%;
       margin-left: 5rem; } }
 
-/* line 1017, ../_assets/scss/global.scss */
+/* line 1019, ../_assets/scss/global.scss */
 .offerLink a {
   font-size: 1.5rem;
   padding: 3px;
@@ -1505,7 +1501,7 @@ code.option, code.flag, code.filter, code.output {
   color: white;
   border-radius: 5px; }
   @media (min-width: 768px) {
-    /* line 1017, ../_assets/scss/global.scss */
+    /* line 1019, ../_assets/scss/global.scss */
     .offerLink a {
       font-size: 2rem;
       padding: 10px; } }
