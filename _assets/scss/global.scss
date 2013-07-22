@@ -984,6 +984,10 @@ code.option, code.flag, code.filter, code.output {
 }
 
 .copyHead {
+  h3 {
+    padding-top: 1rem;
+  }
+  
   ul li {
     margin-bottom: 1rem;
   }
@@ -991,7 +995,9 @@ code.option, code.flag, code.filter, code.output {
     color: white;
   }
 }
-
+.free-hosting .pane {
+    background: url(../img/bg_noir.jpg) no-repeat;
+  }
 .lpCopy {
   text-align: left;
   p:last-child {
@@ -1011,7 +1017,8 @@ code.option, code.flag, code.filter, code.output {
 .offerLink a {
   font-size: 1.5rem;
   padding: 3px;
-  background: #444;
+  background: $action;
+  color: white;
   border-radius: 5px;
   @media (min-width: 768px) {
     font-size: 2rem;
@@ -1019,7 +1026,7 @@ code.option, code.flag, code.filter, code.output {
   }
 }
 
-@import "_buttons/gh-buttons";
+// @import "_buttons/gh-buttons";
 
 
 

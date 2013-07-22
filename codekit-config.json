@@ -33,6 +33,17 @@
       "initialSize" : 18878,
       "fileType" : 8192
     },
+    "\/img\/gh-icons.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gh-icons.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gh-icons.png",
+      "initialSize" : 3948,
+      "fileType" : 8192
+    },
     "\/css\/global.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -113,6 +124,39 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/img\/gh-icons.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/gh-icons.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/gh-icons.png",
+      "initialSize" : 3948,
+      "fileType" : 8192
+    },
+    "\/img\/bg_noir.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/bg_noir.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/bg_noir.jpg",
+      "initialSize" : 193754,
+      "fileType" : 4096
+    },
+    "\/img\/article-footer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/article-footer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/article-footer.png",
+      "initialSize" : 1898,
+      "fileType" : 8192
+    },
     "\/_assets\/scss\/_gridism.scss" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -145,6 +189,18 @@
       "initialSize" : 18878,
       "fileType" : 8192
     },
+    "\/_assets\/scss\/_buttons\/gh-buttons.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_assets\/scss\/_buttons\/gh-buttons.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/gh-buttons.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/_site\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -172,6 +228,28 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
+    "\/_site\/img\/article-footer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/article-footer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/article-footer.png",
+      "initialSize" : 1898,
+      "fileType" : 8192
+    },
+    "\/_site\/img\/bg_noir.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/bg_noir.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/bg_noir.jpg",
+      "initialSize" : 193754,
+      "fileType" : 4096
+    },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -193,6 +271,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_includes\/head.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/head.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/img\/dark_wall.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -203,15 +290,6 @@
       "outputAbbreviatedPath" : "\/_site\/img\/dark_wall.png",
       "initialSize" : 32733,
       "fileType" : 8192
-    },
-    "\/_includes\/head.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/head.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/img\/header_simp.png" : {
       "ignoreWasSetByUser" : 0,
