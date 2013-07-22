@@ -3,4 +3,4 @@ description: For readers with time to kill!
 
 permalink: pretty
 
-exclude: [README.md, config.rb, codekit-config.json, .gitignore]
+exclude: ["README.md", "config.rb", "codekit-config.json", ".gitignore", "vendor"]
