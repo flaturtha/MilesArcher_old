@@ -6,15 +6,21 @@ title: ""
 ## Do you:
 * look longingly at your bookshelf full of murder mysteries, _wishing you had the time to read_?
 * cruise the used bookstore or yard sales, _but keep on driving because there's just no time_?
-* waste time waiting &hellip; for another meeting &hellip; kids to get out of practive &hellip; a delayed appointment, _when you could be reading_?
+* waste time waiting for: another meeting &hellip; kids to get out of practice &hellip; a delayed appointment, _when you could be reading_?
 
-Lets face it, you're busy. The job requires long hours. Your family wants to spend time with you. You've got meetings, appointments, time wasted standing in line waiting. And waiting.
+Lets face it, you're busy. 
+
+The job requires long hours. Your family wants to spend time with you. You've got meetings, appointments, time wasted standing in line waiting. And waiting.
 
 Obligations.
 
 Responsibilities.
 
-There's precious little time left in a day for what you want to do. For reading a good story that lets you escape to a world of excitement, danger, intrigue.
+A recent study showed that the average person spends two weeks of his life sitting in traffic, waiting for a stoplight to change. 
+
+There's precious little time left in a day for what you want to do. For digging into that bookshelf full of books and reading a good story that lets you escape to a world of excitement, danger, intrigue. Maybe you can enjoy one or two, when you finally get to go on vacation.
+
+
 
 But what if you could? What if you could escape and lose yourself in a good murder mystery? Its simple, just carry a paperback novel with you and read a page or two when time allows.
 
