@@ -486,7 +486,7 @@ aside li.current a:before {
 
 .section-nav {
   text-align: center;
-  padding-top: 40px;
+  padding-top: 1rem;
   position: relative;
   // background: url(../img/article-footer.png) top center no-repeat;
   margin: 40px -20px 10px;
@@ -496,22 +496,22 @@ aside li.current a:before {
   width: 49.5%;
 }
 
-// .section-nav a, .section-nav span {
-//   color: #fff;
-//   font-size: 16px;
-//   text-transform: uppercase;
-//   font-weight: 700;
-//   padding: 8px 12px 10px;
-//   border-radius: 5px;
-//   /*border: 1px solid #333;*/
-//   box-shadow: 0 1px 3px rgba(0,0,0,.3), inset 0 1px 1px rgba(255,255,255,.5);
-//   background: #777;
-// }
+.section-nav a, .section-nav span {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 8px 12px 10px;
+  border-radius: 5px;
+  /*border: 1px solid #333;*/
+  box-shadow: 0 1px 3px rgba(0,0,0,.3), inset 0 1px 1px rgba(255,255,255,.5);
+  background: #777;
+}
 
-// .section-nav a:hover {
-//   color: #fff;
-//   background: #888;
-// }
+.section-nav a:hover {
+  color: #fff;
+  background: #888;
+}
 
 .section-nav .next, .section-nav .prev {
   position: relative;
@@ -1045,7 +1045,11 @@ code.option, code.flag, code.filter, code.output {
   }
 }
 
-// @import "_buttons/gh-buttons";
-
+.offer-nav {
+  text-align: center;
+  padding-top: 1rem;
+  position: relative;
+  margin: 40px -20px 10px;
+}
 
 
