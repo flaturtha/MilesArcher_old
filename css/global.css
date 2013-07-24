@@ -1486,10 +1486,6 @@ code.option, code.flag, code.filter, code.output {
 /* line 1010, ../_assets/scss/global.scss */
 .lpCopy {
   text-align: left; }
-  /* line 1012, ../_assets/scss/global.scss */
-  .lpCopy p:last-child {
-    margin-top: 3rem;
-    margin-bottom: 0.25rem; }
   /* line 1016, ../_assets/scss/global.scss */
   .lpCopy h1, .lpCopy h2, .lpCopy h3, .lpCopy h4, .lpCopy h5, .lpCopy h6 {
     color: white; }
