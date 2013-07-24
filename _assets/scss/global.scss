@@ -1064,4 +1064,21 @@ code.option, code.flag, code.filter, code.output {
   margin: 40px -20px 10px;
 }
 
+.offer .first {
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  padding: 0.25rem 0.25rem 0.5rem 0.25rem;
+  @media (min-width: 568px) {
+    padding: 0.25rem 0.25rem 1rem 0.25rem;
+    // margin: 0 auto;
+    text-align: center;
+  }
+}
+
+.headline {
+  margin: 2rem;
+}
+
+
 
