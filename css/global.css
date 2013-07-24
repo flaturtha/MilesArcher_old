@@ -1520,16 +1520,16 @@ code.option, code.flag, code.filter, code.output {
   color: white; }
 
 /* line 1011, ../_assets/scss/global.scss */
-.lpCopy {
+.lpCopy, .offerCopy {
   text-align: left; }
-  /* line 1017, ../_assets/scss/global.scss */
-  .lpCopy h1, .lpCopy h2, .lpCopy h3, .lpCopy h4, .lpCopy h5, .lpCopy h6 {
+  /* line 1018, ../_assets/scss/global.scss */
+  .lpCopy h1, .offerCopy h1, .lpCopy h2, .offerCopy h2, .lpCopy h3, .offerCopy h3, .lpCopy h4, .offerCopy h4, .lpCopy h5, .offerCopy h5, .lpCopy h6, .offerCopy h6 {
     color: red; }
-  /* line 1020, ../_assets/scss/global.scss */
-  .lpCopy h2 {
+  /* line 1021, ../_assets/scss/global.scss */
+  .lpCopy h2, .offerCopy h2 {
     font-size: 3rem; }
-  /* line 1023, ../_assets/scss/global.scss */
-  .lpCopy strong {
+  /* line 1024, ../_assets/scss/global.scss */
+  .lpCopy strong, .offerCopy strong {
     color: red;
     letter-spacing: 0.15rem;
     font-variant: small-caps;
@@ -1537,11 +1537,15 @@ code.option, code.flag, code.filter, code.output {
     padding: 0 0.25rem; }
   @media (min-width: 568px) {
     /* line 1011, ../_assets/scss/global.scss */
-    .lpCopy {
+    .lpCopy, .offerCopy {
       max-width: 80%;
       margin-left: 5rem; } }
 
-/* line 1039, ../_assets/scss/global.scss */
+/* line 1040, ../_assets/scss/global.scss */
+.offerCopy {
+  border: 1px solid green; }
+
+/* line 1049, ../_assets/scss/global.scss */
 .offerLink a {
   font-size: 1.5rem;
   padding: 3px;
@@ -1549,39 +1553,39 @@ code.option, code.flag, code.filter, code.output {
   color: white;
   border-radius: 5px; }
   @media (min-width: 768px) {
-    /* line 1039, ../_assets/scss/global.scss */
+    /* line 1049, ../_assets/scss/global.scss */
     .offerLink a {
       font-size: 2rem;
       padding: 10px; } }
 
-/* line 1051, ../_assets/scss/global.scss */
+/* line 1061, ../_assets/scss/global.scss */
 .devices {
   width: 200px; }
   @media (min-width: 768px) {
-    /* line 1051, ../_assets/scss/global.scss */
+    /* line 1061, ../_assets/scss/global.scss */
     .devices {
       width: 300px;
       margin-left: 20%; } }
 
-/* line 1060, ../_assets/scss/global.scss */
+/* line 1070, ../_assets/scss/global.scss */
 .offer-nav {
   text-align: center;
   padding-top: 1rem;
   position: relative;
   margin: 40px -20px 10px; }
 
-/* line 1067, ../_assets/scss/global.scss */
+/* line 1077, ../_assets/scss/global.scss */
 .offer .first {
   color: white;
   background-color: red;
   border-radius: 5px;
   padding: 0.25rem 0.25rem 0.5rem 0.25rem; }
   @media (min-width: 568px) {
-    /* line 1067, ../_assets/scss/global.scss */
+    /* line 1077, ../_assets/scss/global.scss */
     .offer .first {
       padding: 0.25rem 0.25rem 1rem 0.25rem;
       text-align: center; } }
 
-/* line 1079, ../_assets/scss/global.scss */
+/* line 1089, ../_assets/scss/global.scss */
 .headline {
   margin: 2rem; }

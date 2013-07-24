@@ -1010,6 +1010,7 @@ code.option, code.flag, code.filter, code.output {
 
 .lpCopy {
   text-align: left;
+  // border: 1px solid green;
   // p:last-child {
   //   margin-top: 3rem;
   //   margin-bottom: 0.25rem;
@@ -1034,6 +1035,15 @@ code.option, code.flag, code.filter, code.output {
     margin-left: 5rem;
     // border: 1px solid $action;        
   }
+}
+
+.offerCopy {
+  @extend .lpCopy;
+  border: 1px solid green;
+  // @media (min-width: 568px) {
+  //   max-width: 65%;
+  //   margin-left: 3rem;
+  // }
 }
 
 .offerLink a {
@@ -1080,5 +1090,7 @@ code.option, code.flag, code.filter, code.output {
   margin: 2rem;
 }
 
-
+aside {
+  // border: 1px solid blue;
+}
 
