@@ -206,7 +206,7 @@ body > footer a:hover img {
 /* Intro */
 
 .intro .unit {
-  padding: 10px 0 40px;
+  padding: 0.625rem 0 1.25rem;
 }
 
 .intro p {
@@ -233,7 +233,7 @@ body > footer a:hover img {
 .quickstart {
   background: $action;
   color: #fff;
-  margin: 60px 0;
+  margin: 1rem 0;
   // @include opacity(0.75);
   box-shadow: inset 0 7px 10px rgba(0,0,0,.4);
 }
