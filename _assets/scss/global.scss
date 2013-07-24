@@ -1015,7 +1015,19 @@ code.option, code.flag, code.filter, code.output {
   //   margin-bottom: 0.25rem;
   //  }
   h1, h2, h3, h4, h5, h6 {
-    color: white;
+    color: red;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+  strong {
+    color: red;
+    letter-spacing: 0.15rem;
+    // text-transform: uppercase;
+    font-variant: small-caps;
+    font-size: 1.2em;
+    // background-color: yellow;
+    padding: 0 0.25rem;
   }
   @media (min-width: 568px){
     max-width: 80%;
