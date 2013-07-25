@@ -1094,3 +1094,23 @@ aside {
   // border: 1px solid blue;
 }
 
+.sidebar {
+  h2 {
+    color: $action;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  p {
+    color: #444;
+    font-size: 0.75rem;
+    text-decoration: none;
+    margin: 1rem;
+  }
+}
+
+.emailSignup {
+  background: white;
+  border-radius: 0.25rem;
+  padding: 1rem;
+}

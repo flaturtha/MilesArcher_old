@@ -1585,3 +1585,22 @@ code.option, code.flag, code.filter, code.output {
 /* line 1089, ../_assets/scss/global.scss */
 .headline {
   margin: 2rem; }
+
+/* line 1098, ../_assets/scss/global.scss */
+.sidebar h2 {
+  color: red;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+/* line 1104, ../_assets/scss/global.scss */
+.sidebar p {
+  color: #444;
+  font-size: 0.75rem;
+  text-decoration: none;
+  margin: 1rem; }
+
+/* line 1112, ../_assets/scss/global.scss */
+.emailSignup {
+  background: white;
+  border-radius: 0.25rem;
+  padding: 1rem; }
