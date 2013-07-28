@@ -1600,8 +1600,12 @@ code.option, code.flag, code.filter, code.output {
   font-size: 0.75rem;
   text-decoration: none;
   margin: 1rem; }
+@media (min-width: 768px) {
+  /* line 1095, ../_assets/scss/global.scss */
+  .sidebar {
+    float: right; } }
 
-/* line 1110, ../_assets/scss/global.scss */
+/* line 1113, ../_assets/scss/global.scss */
 .emailSignup {
   background: white;
   border-radius: 0.25rem;
