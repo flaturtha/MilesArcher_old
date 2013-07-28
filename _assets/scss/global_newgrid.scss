@@ -1,0 +1,135 @@
+//--------------------------------------------
+// GLOBAL SCSS - imports only
+//--------------------------------------------
+
+/* NOTE - gut this file once complete and organize into proper SMACSS */
+/* structure. This file is the only CSS file imported into the HTML head. */
+
+@import "bits";
+@import "normalize";
+
+/* DEFAULTS */
+* {
+  @include box-sizing(border-box);
+}
+
+body {
+  padding: $pad;
+  background: #222;
+  color: #eee;
+}
+
+body > header h1 span {
+  display: none;
+}
+
+.wrap {
+  border: 5px solid $action;
+  // max-width: 70rem; /* add for large screens, ie. desktop and above */
+}
+
+
+/* UTILITY */
+.hide {
+  display: none;
+}
+
+.hide-on-mobiles {
+  display: none;
+}
+
+/* MASTHEAD */
+.mastheadIMG {
+  margin: -1rem 0 0;
+}
+
+.center-on-mobiles {
+  text-align: center;
+}
+
+
+// @media (min-width: 768px) {
+//   .hide {
+//     display: none;
+//   }
+// }
+
+// @media (max-width: 768px) {
+//   .hide-on-mobile {
+//     display: none;
+//     }
+// }
+
+
+
+
+h1 {
+  color: white;
+  em {
+    color: #666;
+    font-size: 1rem;
+  }
+}
+
+.copyHead {
+  h3 {
+    padding-top: 1rem;
+  }
+  ul li {
+    margin-bottom: 1rem;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: white;
+  }
+}
+
+.quickstart {
+  background: $action;
+  color: #fff;
+  // margin: 1rem 0;
+  // @include opacity(0.75);
+  box-shadow: inset 0 7px 10px rgba(0,0,0,.4);
+}
+
+
+
+/* GRID */
+.grid {
+  background: white;
+  margin: 0 0 $pad 0;
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+[class*='col-'] {
+  float: left;
+  padding-right: $pad;
+  .grid &:last-of-type {
+    padding-right: 0px;
+  }
+}
+
+.col-2-3 {
+  width: 66.66%;
+}
+
+.col-1-3 {
+  width: 33.33%;
+}
+
+.module {
+  padding: $pad;
+  background: #eee;
+}
+
+.grid-pad {
+  padding: $pad 0 $pad $pad;
+  [class*='col-']:last-of-type {
+    padding-right: $pad;
+  }
+}
+
+
