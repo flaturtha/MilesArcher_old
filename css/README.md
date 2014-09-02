@@ -1,1 +1,0 @@
-this folder holds the single CSS file (global.css) that is a compilation of all of the SCSS files and partials from the ../_assets/scss and ../_assets/scss/partials folders ... global.css is linked in the _includes/head.html of all pages
